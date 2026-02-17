@@ -13,7 +13,6 @@ blur.png
 blurnotif.png
 close.png
 closemini.png
-cockroach.png
 colorpreview.png
 combaticon.png
 customsettings.png

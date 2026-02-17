@@ -124,3 +124,4 @@ run(function()
 	})
 end)
 	
+getgenv().VapeGameLoaded = true
